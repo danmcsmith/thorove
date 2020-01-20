@@ -29,32 +29,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title></title>
-      <link>www.thorove.com/author/jamica-jock/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>www.thorove.com/author/jamica-jock/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu magna arcu.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>www.thorove.com/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>www.thorove.com/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pulvinar turpis ac est vulputate egestas at vitae nunc.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>www.thorove.com/author/somrat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>www.thorove.com/author/somrat/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
-    </item>
-    
   </channel>
 </rss>
