@@ -1,0 +1,105 @@
+baseURL = "www.thorove.com/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = ""
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About Us"
+    URL = "about"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Travel"
+    URL = "portfolio"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 5
+
+# Site params
+[params]
+home= "Home"
+logo = "images/thorlogo2.png"
+# Meta data
+description = "Thorove Travel"
+author = "Dan Smith"
+# Google Analitycs
+googleAnalitycsID = "UA-124449442-1"
+custom_css = ["css/custom.css"]
+
+    # call to action
+    [params.cta]
+    enable = false
+    title = "Great Design & Incredible Features"
+    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    btnURL = "blog/a-taste-of-italy/"
+    btnText = "Start a project with us"
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "/images/backgrounds/sapa2.jpg"
+    icon = "images/thorsitelogo.png"
+    heading = ""
+    content= "Guides | Blog | Photography | Video"
+    btn = true
+    btnText="Live Deliberately, Seek Deeply"
+    btnURL="#about"
+
+    # counter
+    [params.counter]
+    enable = false
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "Dan Smith"
+        copyrightURL = "http://www.thorove.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-instagram"
+        url = "https://www.instagram.com/_thorove_/"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/thorovetravel/"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-youtube"
+        url = "https://www.youtube.com/channel/UCccDncgftSwPHEGiO1H9rvA?view_as=subscriber"

@@ -1,0 +1,11 @@
+enable : true
+heading : Get In
+headingSpan : Touch
+title : Contact Us
+content : "We'd love to hear from you!"
+enable_maps : false
+mapLatitude : ""
+mapLongitude: ""
+contactDetails : 
+  - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+    info : "Email: thorovetravel@gmail.com"

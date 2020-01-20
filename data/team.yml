@@ -1,0 +1,23 @@
+enable : false
+heading :
+headingSpan : US
+teamMember :
+  - image : images/team/rach.jpg
+    name : Rachael Pike
+    designation : Travel Photography
+    description : Finding beauty in every shot
+    socialIcon :
+      - icon : tf-ion-camera
+        url : "https://www.bendwithin.com/"
+      - icon : tf-ion-social-instagram
+        url : "https://www.instagram.com/_thorove_/"
+
+  - image : images/team/dan.jpg
+    name : Dan Smith
+    designation : Travel Guides, Travel Video
+    description : Finding thrills in every frame
+    socialIcon :
+      - icon : tf-ion-social-instagram
+        url : "https://www.instagram.com/_thorove_/"
+      - icon : tf-ion-social-youtube
+        url : "https://www.youtube.com/channel/UCccDncgftSwPHEGiO1H9rvA?view_as=subscriber"

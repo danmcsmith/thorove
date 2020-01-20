@@ -1,0 +1,55 @@
+enable : true
+heading :
+headingSpan : Travel
+filterList :
+  - filterType : photography
+    filterTitle : Photography
+
+  - filterType : video
+    filterTitle : Video
+
+  - filterType : guides
+    filterTitle : Guides
+
+portfolioItem :
+  - types : photography
+    image : images/portfolio/manrow.jpg
+    icon : tf-ion-camera
+    URL : https://www.bendwithin.com/
+    title : Photography
+    description : Photography by Rachael Pike
+
+  - types : video
+    image : images/portfolio/balkanscover2.jpg
+    icon : tf-ion-ios-videocam
+    URL : https://www.youtube.com/channel/UCccDncgftSwPHEGiO1H9rvA?view_as=subscriber
+    title : Travel Videos
+    description : Travel videos by Dan Smith
+
+  - types : guides
+    image : images/blog/annapurna/trekcover.jpg
+    icon : tf-ion-ios-paper
+    URL : "/blog/annapurna-guide/"
+    title : Annapurna Circuit Trek
+    description : 17-day Trek Guide
+
+  - types : guides
+    image : images/blog/mysore/cover.jpg
+    icon : tf-ion-ios-paper
+    URL : "/blog/mysore-yoga-student-guide/"
+    title : Mysore Yoga Student Guide
+    description : Living in Mysore
+
+  - types : guides
+    image : images/blog/motorbike/cover2.jpg
+    icon : tf-ion-ios-paper
+    URL : "/blog/northern-vietnam-motorbike-guide/"
+    title : Northern Vietnam Motorbike Guide
+    description : Scenic guide to Northern Vietnam
+
+  - types : guides
+    image : images/blog/angkorwat/cover.jpg
+    icon : tf-ion-ios-paper
+    URL : "/blog/angkor-wat-bike-guide/"
+    title : Angkor Wat Bike Guide
+    description : 2-day Bike Guide
